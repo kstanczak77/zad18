@@ -1,0 +1,18 @@
+h1{
+    color: #ff0000;
+    font-size: 3.0em;
+}
+section{
+    max-width: 800px; 
+    background-color: #faebd6;
+    padding: 10px; 
+    padding-bottom: 100px;
+    font-size: 2.0em
+
+}
+h1+p{
+    color: #a42423;
+    }
+p{
+    color: #00008f
+    }
